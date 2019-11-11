@@ -2,6 +2,7 @@
 #import Perfil from 'Perfil.graphql' 
 #import Produto from 'Produto.graphql' 
 #import Query from 'Query.graphql'
+#import Mutation from 'Mutation.graphql'
 
 scalar Date
 
